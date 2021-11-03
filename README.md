@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Jamil132
-- 👀 I’m interested in Web development and software development
+- 👋 Hi, I’m @Jamil1
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
